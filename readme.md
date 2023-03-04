@@ -35,7 +35,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-![alt-text]([name-of-giphy.gif](https://giphy.com/gifs/PNVh3AU3RVV1Veo5lk))
+![]([name-of-giphy](https://media.giphy.com/media/PNVh3AU3RVV1Veo5lk/giphy).gif)
 
 
 GIF created with ScreenToGIF
