@@ -35,7 +35,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<script> async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 GIF created with ScreenToGIF
 
