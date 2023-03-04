@@ -35,7 +35,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-![]([name-of-giphy.gif](https://giphy.com/gifs/PNVh3AU3RVV1Veo5lk.gif)
+![]([name-of-giphy.gif](https://giphy.com/gifs/PNVh3AU3RVV1Veo5lk.gif))
 
 
 GIF created with ScreenToGIF
